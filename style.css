@@ -52,8 +52,6 @@ strong {
 }
 
 .box {
-    /* place-content: center;
-    place-items: center; */
     width: clamp(80px, 100%, 700px);
     height: auto;
     margin: 100px auto;
